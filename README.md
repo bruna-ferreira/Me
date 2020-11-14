@@ -1,4 +1,4 @@
-preview
+
 <h1 align="center">Hi 👋, I'm Bruna</h1>
 <h3 align="center">Just an ordinary student.</h3>
 
